@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InputControls</string>
+    <string name="message">Hello World!</string>
+    <string-array name="country_array">
+        <item>Pakistan</item>
+        <item>Russia</item>
+        <item>China</item>
+        <item>India</item>
+    </string-array>
+</resources>
